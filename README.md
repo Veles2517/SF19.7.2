@@ -1,4 +1,4 @@
-SF19.7.2_Testing_REST_api_PetFriends
+Проект 19.7.2.
 
 Тестирование REST api сайта Pet Friends
 
